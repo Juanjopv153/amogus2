@@ -1,0 +1,211 @@
+{
+  "Foro": [
+    {
+      "Nombre": "Super Mario World",
+      "Año": "1990",
+      "Compañia": "Nintendo",
+      "TipoJuego": "Plataformero",
+      "Imagen": "https://assets1.ignimgs.com/2019/09/04/super-mario-world---button-fin-1567640652381.jpg",
+      "Decada": "90's"
+    },
+    {
+      "Nombre": "Super Metroid",
+      "Año": "1994",
+      "Compañia": "Nintendo",
+      "TipoJuego": "MetroidVania",
+      "Imagen": "https://i.blogs.es/c4984f/screenshot_1128/1366_2000.jpeg",
+      "Decada": "90's"
+    },
+    {
+      "Nombre": "God Of War",
+      "Año": "2005",
+      "Compañia": "Sony",
+      "TipoJuego": "Hack n' slash",
+      "Imagen": "https://i.pinimg.com/originals/ed/98/7b/ed987b288021e4a3cbaf57246e5b8ed2.jpg",
+      "Decada": "2000"
+    },
+    {
+      "Nombre": "Dark Souls",
+      "Año": "2011",
+      "Compañia": "FromSoftware",
+      "TipoJuego": "RPG",
+      "Imagen": "https://www.filmmusicsite.com/pt/images/covers/xlarge/60273.jpg",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "Elden Ring",
+      "Año": "2022",
+      "Compañia": "FromSoftware",
+      "TipoJuego": "RPG",
+      "Imagen": "https://www.gamespot.com/a/uploads/scale_medium/1593/15930215/3549372-screen%20shot%202019-06-17%20at%2011.17.33%20am.png",
+      "Decada": "2020"
+    },
+    {
+      "Nombre": "Hollow Knight",
+      "Año": "2017",
+      "Compañia": "Team Cherry",
+      "TipoJuego": "MetroidVania",
+      "Imagen": "https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "Super Mario Bros",
+      "Año": "1975",
+      "Compañia": "Nintendo",
+      "TipoJuego": "Plataformero",
+      "Imagen": "https://assets-prd.ignimgs.com/2022/01/08/smb-nesart-1641603921866.jpg",
+      "Decada": "70's"
+    },
+    {
+      "Nombre": "Pacman",
+      "Año": "1980",
+      "Compañia": "Namco",
+      "TipoJuego": "Arcade",
+      "Imagen": "https://thumbs.dreamstime.com/b/pacman-pixel-classic-video-game-character-vector-illustration-pacman-pixel-classic-video-game-character-130157534.jpg",
+      "Decada": "80's"
+    },
+    {
+      "Nombre": "Metal Gear Solid",
+      "Año": "1998",
+      "Compañia": "Konami",
+      "TipoJuego": "Acción",
+      "Imagen": "https://i0.wp.com/www.the-pixels.com/wp-content/uploads/2016/02/mgs1.png?fit=1800%2C1800&ssl=1",
+      "Decada": "90's"
+    },
+    {
+      "Nombre": "Megaman 2",
+      "Año": "1988",
+      "Compañia": "Campom",
+      "TipoJuego": "Plataformero",
+      "Imagen": "https://live.staticflickr.com/228/462246834_6398d4085e_b.jpg",
+      "Decada": "90's"
+    },
+    {
+      "Nombre": "Dying Light 2 Stay Human",
+      "Año": "2022",
+      "Compañia": "Techland",
+      "TipoJuego": "RPG",
+      "Imagen": "https://m.media-amazon.com/images/M/MV5BZTg4NGUxZWMtNmU3OC00YTNmLTkwYWMtYjE3OWQ4ODY3ODBhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg",
+      "Decada": "2020"
+    },
+    {
+      "Nombre": "Devil May Cry 4",
+      "Año": "2005",
+      "Compañia": "Campom",
+      "TipoJuego": "Accion",
+      "Imagen": "https://cdn.wallpapersafari.com/54/58/yuNFzR.jpg",
+      "Decada": "2000"
+    },
+    {
+      "Nombre": "Metroid",
+      "Año": "1986",
+      "Compañia": "Nintendo",
+      "TipoJuego": "Metroidvania",
+      "Imagen": "https://i.blogs.es/f88e6c/metroid/1366_2000.jpg",
+      "Decada": "80's"
+    },
+    {
+      "Nombre": "Castlevania: Symphony Of The Night",
+      "Año": "1997",
+      "Compañia": "Campom",
+      "TipoJuego": "Metroidvania",
+      "Imagen": "https://assets-prd.ignimgs.com/2021/12/14/castlevaniasymp-1639445441428.jpg",
+      "Decada": "90's"
+    },
+    {
+      "Nombre": "Mortal Kombat X",
+      "Año": "2015",
+      "Compañia": "NetheRealm",
+      "TipoJuego": "Lucha",
+      "Imagen": "https://m.media-amazon.com/images/M/MV5BY2VlZTVhYmQtMDc0MC00YmQ3LThiN2UtZGVjNzU2YTk1N2YxXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "Rayman Legends",
+      "Año": "2013",
+      "Compañia": "Ubisoft",
+      "TipoJuego": "Plataformero",
+      "Imagen": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/yaiVZBWbf7mzUcMEIhOzW/bddc42c0f7f402ec460dee888daaefe8/raylegends_hero_mobile_mobile_160389.jpg",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "League Of Legends",
+      "Año": "2009",
+      "Compañia": "Riot",
+      "TipoJuego": "Moba",
+      "Imagen": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LoL_1200x1600-15ad6c981af8d98f50e833eac7843986",
+      "Decada": "2000"
+    },
+    {
+      "Nombre": "Call Of Duty Black Ops 2",
+      "Año": "2012",
+      "Compañia": "Activision",
+      "TipoJuego": "Shooter",
+      "Imagen": "https://m.media-amazon.com/images/M/MV5BOGMxMDQxMTYtNTg0MC00OWYwLTk4ZDUtNGIzZjg2Mzc2NDljXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "Cup Head",
+      "Año": "2017",
+      "Compañia": "Studio MDHR",
+      "TipoJuego": "Run n' Gun",
+      "Imagen": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cuphead_%28artwork%29.png",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "God Of War",
+      "Año": "2018",
+      "Compañia": "Sony",
+      "TipoJuego": "Hack n' slash",
+      "Imagen": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5358/5358600cv23d.jpg",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "Pong",
+      "Año": "1972",
+      "Compañia": "Atari",
+      "TipoJuego": "Simulation Game",
+      "Imagen": "https://www.imaginarycloud.com/blog/content/images/2019/02/Pong.jpg",
+      "Decada": "70's"
+    },
+    {
+      "Nombre": "Whatch Dogs",
+      "Año": "2014",
+      "Compañia": "Ubisoft",
+      "TipoJuego": "Accion",
+      "Imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAhFBMVEUAAAD////8/PxWVlaysrLy8vKFhYWDg4Pn5+f29vbu7u5/f3/19fVpaWmjo6PY2Nje3t6srKy6urrIyMji4uLPz892dna/v79ubm7Nzc0hISGUlJS7u7tbW1tkZGQYGBgRERFKSko9PT2dnZ1ERESPj48xMTEoKCgzMzM6OjpPT08UFBTNau6yAAAPE0lEQVR4nO1d2YKiOhA1uAEqILK4tDZubbfz//83CbgBSaoCAX3gPM2d6wQOSWqvpNfr0KFDhw4dOnTo0KFDhw4fgss22hwdZ/6E42wmu793v5cO7Mfz0CZCTN2vze773S9ZFT8jP3hyMU0z8DzXDcPVKgxdzxw+/5+1Om7f/baqWI9iK3t7w/M30Z7/q7/Z2XdvvyOe02/3HWtg75j3qZkhVuC/3XExzb7GYtL829XGaZ4uPyMe/aj8s8v4Nunhh5PcpLNnOoJlKcfp6KUk44/dlP0Fez/bOVQfYr1JSdobfW+lDxM2fcag0uy94sdJN6WvtMhbwJntIk/THpqFjOPipGc0LdgYbPtofKPLIJU6n8LxzPgN/mke9chGXXzCWo2Ydpg3MXLKcdDEyCo4eE2+hcPW6rmp0VFg22V1afABX0y91pbPlTGjy8hu2JpsdpEAYAq+BdU8od9x+g4zZ0cf7K5beVT8lmlkO3Dc1sPS7dBuROBCTTSvTd98RT/oqMXnLenzji0+j2LM9H9rT5tT7/ba2tNu+LXpSm1n3/eoXey186Q8mOxuI9Lxz36bfjq2It0OVKy9LdAwoxSdhp/Rb2mlCMC+b9zoE+hHtN7q0LA9smpw/IiKswaHR4FqYrexwSlBs7HB0fCao0gJBg0NrQS3KYqzDyGYUgwbGLb/EUs0g9eEBff3AULmCVO/1ZEYxNI8ZC0MtTvfVA19QmDvgTVV/UudA1Jju3VnQo49MUiNBEkRzhttURGo7tK3b2b5kC/1f7UNrYbpq3xx9Dlxl4KGjZo38PkY5yWoqy3WbhaWA2X4nkkcFnSERchOx7gDQvJB54iYbUdpbs8d5hlSaWMk9cfdloJOEYmIUX9gZZhkU9DzGy0WqlEaJCJXv41gdwFL+lmLloynIXGzIKQYF41I//IGCyeg8q3I8JtqxZqJoRlHE1KGvVWr8VmGHRNvJWt0XFtlWJyFPqEM92RYb2BleIxd2d52a8bCB+U1mjGkI7dr5VDnLeExXNN1WmPYA9eCTxluW3amXOL3eAyZPK3hK3pcGilDuvGj6gMrY08Ii+jzvEK7RnyTGi+8zGTGcNmqyx9mYVIew22N4MOQHw7JGNJvN6s6sDION/eU69mHlT2fs8DrHWcMJy0Gpha3vcZl+FPZjzLSzV3GjSGd4ray65RD5u3yozN+xZDGkRB+ndOd4bnB4HMe8X278Bn+oxZ4lWENUTjrzpD+op0kzfrh3QheaVBpEjepiuXhwXDTSGC2DP+xWAQME1LF2bEEu/CFYY+QNqoH/z0VnmhZ+RV8jAkRGu2jxwOdRjNddwyexrWI4YWo28mB2BZ6MqST2EKVy0usQhjpXiiHT68SU+iF4bzhjGz2jKfeFTLsK3v7scQSemHYE69lbSAvtpM4W2GqLieZ1/XKcEC+lMZVh/P6rcUMz4q5mrMsXvjK8JvnQGoFefVhJCwUtb4pVBW9PEMqp5strtnkHDjJw2Ki4s79SV2uHMNLw9FhI+c3SBjulBLDjlS75BjSb9dIGfsN5/ybyBaMpRLOsKWJiTzD30Yn0cpLPBnDgUJM6iS3xvIMqbJtLk8zKnh+MoYqKtGRR5kKDA8NTuKwYG5KxZrCMjXlW6vAsBc2lqeZFF0GKcMvdDRjzQ9APVBkuFdyXf4l+N/axW8nZRihq/pGwLIrMuy5Cq7LTiHMGpVeRK580Up/AYRYSwyv+EjQifQltkQBZkmGyRl6xUynCAYwJSWGdBKRcvqb2h0O1h2ZldeSnKGDDGYcCFDGUWa4xfqfBttXIVIwBWWBJ2eINWvOkOAoM6Qvg5JiZjZ9JsqA3HLEAWAEIzdiDH0IDsMdKk+zuEcjLEyMzuPQARgGOCexJKKL4DCkQgGeF2d6/9O3AZeQXXl+GcDQx9XyEygfwWOIyNOMSfL48wFeTS7PgQMYjlBucB/0aXkM6SQC32WbW0A7SDTtufERgMAelfM+g8qNyzAC8jS/BTtpBLzKimufQFOEEjUD0ELnMqTbV1qfVNogjtSsoD74L28UgKGdJVLlCGUBjBR8hhPpApmWPayFzOkS2FUQwxWmDswG7QI+Q+rpiHWAx3vfQKxDfwRWB8RwjonuwwEdAcOReHnH/D06FLowIp0MMTwjyhXXcDWwgGHPEtm9R5HsMgT6eS0yoSGGM0RhxhXeqyKGZ8GHj0giGOlXIPl80XKAGJ4QPSGIAmARQ+qU8MI7fYklteWqxUQYzAQVOjGmwC+o5QFqFCHDI2+J/EgDBhPeJ58LxTKCIThBG9gREjLkJtsAS5GnFsUiH2Q4NUgC/MSBDUwxQ6c8iUMo1BiXhJ8j3ksgQ0QKSrxCHhAz7JUqcFy45swrxgckyU6QoQerAthokzEsZky/MEVFw/yaPEpWEcgwhI2aegyTvEewwcW+jJz9YkhMDpAhIttdjyHVZC9WbYTMLf4YL6VJG1m4AMMQiqfUZLh+8S736FqU/osSs2SvCDKMYYbzegzpI+6TuFaoXYweW+8s1VYgwy84jlGX4e+jGs5QKcQ63g2+Yi4mDwxDKHQ7gEOOUobURcvewsTHthni7F9N5BEGzCqF5rA2w31m2IaqdYteOneAd/oBkqbHgmTUSpmrNyvYMyZ95foFwxByb+szZLHqEUmgUcowTj2oZQxk6IKx0JpWW4qArCrVLF6sCeS6Yaw2qHC5luWdYQl/Rz5OYOsmyNCGE2y1vKf7e1RsxeCk04ojQwwNuNMLSgD3YIbDuGI/TUACQAjo8IDLmeUSAIZBTHdDlQYIJqJ8eSEgxBDTBdWHjxaQM1y42GRbES57f7eWPrwizrb4gYWRlKGTbmNMsq2IW5TPlnk/EMMIUzUEGwUyhmNye5J6K1J4K1W1JMIQYnjEFJxMwfofCcPtXZKpN0Wd7s7z2hAHbCGGPuaoABf8CmKGf48giXpT1DMXsxcb3xBDF5ME/gKNGiHD5GX3qTZF/b4EyZbCJQ4xtAzECSUbMCQsZGgdX3+k5lzEr60bZ5F/AzBMUC2zMzBxIWIY5Ja3pXTeyyVvbQ0ETACGO2IgfJpvMFo15jNc5HeeWlNUMRcT8tUiwHCDKxmyIHHEZ+gUVa2lckJOqWbX435mgOECd+rKCvoOXIYTMh3mYZCpPcSC2iK5/7ZNro8AMBzKYq1PHCFRw2O4LU5Ysv42yCGhQDySTuH2ETK9/wtLudqEnSGBidBuoco9DsNfXix9g26K4gb4/jhqUc5wgu1gg7L9HFnKD+Ghm6L4tjCn2FbO0McWCbuqFbS9Ib88wEE2RYnSaefSzMoZ2th+hKNqFTS3liR9IUT9Tk9SSTcofiEpwx+6DXFHKV8VK9kFtSQ9tr8wTVGSdFqx2FY63hl/8KGh1I0grCVJk20J5nFiEV8otpUyDPENekCcJc8wEnTtp/ARTVHy2Ff+4HApBbpIsdb+Uq4vcgyv0p+uEf00htThyRfbyhhOVDoQ5cbPK8MLkFSOQTPqTOQVMLliWxnDUOWYaPkyzfUBA+IZ7mybQrV2r8W2MoZ0keLjCjNpRcMLQxvcZlBnG6ZC6emSSxiO1NpkRcea3Ma6M3RhX+UEMBgimkDmj9UnYeiptToPUJ3OPiagFkopIALQvZdiWzGJP4IJYDxxkEV07gxxtSRX6STKu1UfuBXbJmKGA9WzlAJJrOzGcIk0kWSdbeijULNi228xQwJ1axUxkciajOEe2SdGvTGx0cNpbRLAYIXtayHDkfqxbQZw8scFL5o9oUrZ4Rts02JbMUPqVqhVRqSdbtLTW1SaKoVmGa+1SYStzT6r4PczOoXKp6yIPwpjaKtIZlOQCumLTqLiYuxR/0jwWK/KOfS+0C8YkUOoNN5SYCJxW5vEoGpRwHCrYHQ/cRFq0BFxFTNLNtc/4rc2SbAQ+ZtetUsNYlGL1wiwlcvgJ9tC5eN7Aj7DHZ3CKkcmX0S2+kg9hz3kSN4Dv7VJioC7rM2q91L4gprprat8I+eY8wpQyzgXPCMjqrQLGRKNd4FMS+/wC4Vl0bDKhzlj4Wg6EbzHO4EQbDfGwqlzh4Ch77TgYrLtgj0dAAIrMKl+4NhE3xV5xWSbsLVJFWG9g4Q9faeV5ZuivnVd/bVUdiry+NV3w0K+KWqga1zDqHnar6PvPt6c+tMlw2LCb5hTgK1tnTovAmGu6YRetkbrHsSF6VlE4uVbVa1ALQ2pQ9o72m4kmT9cCUSZLgouZahB5wS6xF7yMOVx6XYQR0pQx9dfVzrClofBzTWQtjbh0acE9UjkSJfKuOdpDC23DiQG1RTKPgAfA123nGUnEEK5GCTMil4hF56mC5V/0kkEczEoLDRtwhssTdKG5WnGWm5wYR6FzrO2qT+u7pBzxzEQB28gMKEE9V6wwS6RTTSMsyKhDsnMIjOG5sNvFQodZNhrubP8Soza5mgZjp5bOl0NJ2WeGMEG7mXwtVio/foCkJrKmoyiIhZaKAZJzQFSgg1dQL74hOtkr4xgY9dpUYp20tTgOOzYHmzwvrD43TePs7KgZu/SGrz39niHEdR6h2wZR4I7m7ARMFu0+et7JkT/fco4JMybEB2epRN9oi/EqPRcSo+YSRuPWttUYLe+GY9sC7Zx6UuKFWn9wlyXEWzxftcNpRi0qDaWTM0bbV0RlmI/JdpvNxcjZhPoJW097gYmuYMWBBudQCZi3nEDMbvaudG7LTKsQzaBtsZ71BXABI7V8E2WDtuBb7oHnGJpMd3Y4M1kE4tNYPCeCcwwZ0t10ZBUnZmMX+s3Dxfw6zKOcQMcd0G6QN9jIebfxEznUfNajTJ+oY4YZn1ENuPoarx49TxM+bkqldvNIuM4PCY6Bjv5JOPXqg0DYhkwjmRV2z0900XP5Mvqc+bvjusi5Wh81UgIjcNs+sig8Sv5KiE5DlOSZFElkvK7YWKZTV/wZv0gxTbOOJJgriJ41pOv4Y3edP5O/Y7C8k6SmP4ZsZl2m0U69WxxTgefJV2E2A3sO0tir+bnGW9akv1yM3Cn5DZ3dNodPbV8LeEyjp8sU1USuKtF7Pv+V7wIPdO6/XVGjpiDNu+i14Zk6ayGdyYkD8O4/425OGpLx78H14kTuzYpwTBd/xi1cWVyW7jst7NowhDNtidcV1iHDh06dOjQoUOHDh06dGgL/wHqdJabtydb/gAAAABJRU5ErkJggg==",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "Forager",
+      "Año": "2019",
+      "Compañia": "HopFrog",
+      "TipoJuego": "Survival",
+      "Imagen": "https://f4.bcbits.com/img/a4259265312_10.jpg",
+      "Decada": "2010"
+    },
+    {
+      "Nombre": "Resident Evil 4",
+      "Año": "2005",
+      "Compañia": "Campom",
+      "TipoJuego": "Survival Horror",
+      "Imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/04/resident-evil-4-remake-1915951.jpg?tf=3840x",
+      "Decada": "2000"
+    },
+    {
+      "Nombre": "Dead Space",
+      "Año": "2008",
+      "Compañia": "Visceral Studios",
+      "TipoJuego": "Survival Horror",
+      "Imagen": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpace_MotiveStudio_S2_1200x1600-551c16d068cab45b02149e15a43c2413",
+      "Decada": "2000"
+    }
+  ],
+  "Usuarios": [
+    {
+      "Usuario": "1312312",
+      "Contraseña": "12312312",
+      "id": 1
+    }
+  ]
+}
